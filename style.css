@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Header{
+    background-color: antiquewhite;
+    height: 50px;
+}
+.Header h1{
+    color: black;
+    text-align: center;
+    padding-top: 5px;
+}
+.Banner{
+    background-color: cadetblue;
+    height: 300px;
+}
+.Banner h1{
+    color: black;
+    text-align: center;
+    padding-top: 130px;
+}
+.wrapper{
+    overflow: hidden;
+}
+.left{
+    background-color: teal;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+.left h1{
+    color: whitesmoke;
+    padding-left: 30px;
+}
+.right{
+    background-color: tomato;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+.right h1{
+    color: whitesmoke;
+    padding-left: 30px;
+}
+.footer{
+background-color: yellow;
+height: 100px;
+}
+.footer h1{
+color: black;
+padding-top: 30px;
+text-align: center;
+}
